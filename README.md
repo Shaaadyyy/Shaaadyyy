@@ -55,7 +55,7 @@
       <ins>Wasalny Application</ins>  
    </a>
   
-  Wasalny is a riding-sharing app, that helps users to communicate with the drivers and negotiate price.  
+  Wasalny is a ride-sharing app, that helps users to communicate with the drivers and negotiate price.  
   and provides users cars in any place to make it easier to move from one place to another with minimum cost.
   
   <a href = "https://github.com/Shaaadyyy/Chinese-Checker">
