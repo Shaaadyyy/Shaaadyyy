@@ -49,7 +49,7 @@
       <ins>Paint Program</ins>  
    </a>
   
-  Program to draw lines and geometric shapes and fill it.
+  Program to draw lines and geometric shapes and fill the geometric shapes.
   
   <a href = "https://github.com/Shaaadyyy/Wasalny">
       <ins>Wasalny Application</ins>  
