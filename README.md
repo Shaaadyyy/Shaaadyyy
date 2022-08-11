@@ -15,7 +15,7 @@
 ---
 ### :man_technologist: About Me :  
 *  I'm currently pursuing a bachelor degree in computer science at Cairo University.  
-*  A passionate programmer who is eager to learn new .  
+*  A passionate programmer who is eager to learn new skills.  
 *  In my free time, I solve problems on CodeForces & HackerRank.   
 
 ---
