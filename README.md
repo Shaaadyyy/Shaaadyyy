@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center" >
-  <a href="linkedin.com/in/shadywalid7">
+  <a href="https://www.linkedin.com/in/shadywalid7">
     <img src="https://img.shields.io/badge/shadywalid7-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Shaaadyyy&style=flat-square&color=blue" alt="" width="100"/>
