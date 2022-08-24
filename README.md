@@ -109,17 +109,21 @@
   
   GoFo App is a system application for booking football playgrounds.  
   
+  <a href = "https://github.com/Shaaadyyy/BMI-Calculator">
+      <ins>BMI Calculator App</ins>
+   </a>
+   
+  This bmi calculator estimates your body mass index based on your gender, height, age & weight.  
+  
   <a href = "https://github.com/Shaaadyyy/Macros-Calculator">
       <ins>Macros Calculator App</ins>
    </a>
    
    This macros calculator estimates the macronutrient needs of a person.
-   only calculates daily protein, carbohydrates, fats needs.
+   only calculates daily protein, carbohydrates, fats needs.  
   
-  <a href = "https://github.com/Shaaadyyy/BMI-Calculator">
-      <ins>BMI Calculator App</ins>
-   </a>
-   This bmi calculator estimates your body mass index based on your gender, height, age & weight.
+  
+  
   
 </div>
 
