@@ -113,9 +113,8 @@
       <ins>BMI Calculator App</ins>
    </a>
    This bmi calculator estimates your body mass index based on your gender, height, age & weight.  
-   
-
-   <a href = "https://github.com/Shaaadyyy/Macros-Calculator">
+  
+  <a href = "https://github.com/Shaaadyyy/Macros-Calculator">
       <ins>Macros Calculator App</ins>
    </a>
    
