@@ -44,7 +44,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaaadyyy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](github-readme-stats-vert-rho.vercel.app/api/top-langs/?username=Shaaadyyy&theme=great-gatsby)](https://github.com/anuraghazra//github-readme-stats
 
 ---
 ### :paperclip: My Projects :  
